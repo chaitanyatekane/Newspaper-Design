@@ -2,7 +2,7 @@
 Newspaper-Design
 
 ## For Live Demo 
-Click Here :- 
+Click Here :- https://chaitanyatekane.github.io/Newspaper-Design/
 
 ## Tech Stack Used 
 HTML5 & CSS3 
